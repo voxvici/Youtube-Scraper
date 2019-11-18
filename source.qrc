@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="YTLogo">
+    <file>sm_5b321c9877382.png</file>
+  </qresource>
+  <qresource prefix="Voxvici">
+    <file>voxviciblue.png</file>
+  </qresource>
+</RCC>
