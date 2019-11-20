@@ -34,7 +34,9 @@ Program created in PyQt, Python 3.6 and MySQL
 
 ## Setup
 
-Create MySQL database and table with username and passwd. Open db.py and change the name of your user, password, database, and table. If you don't want to setup MySQL there is an option to login without SQL.
+If you don't want to setup MySQL there is an option to login without SQL.
+
+Create MySQL database called logindb and execute SQL code inside SQL folder.
 
 ## Run
 
