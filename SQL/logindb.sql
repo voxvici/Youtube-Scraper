@@ -1,0 +1,13 @@
+USE logindb;
+
+CREATE TABLE users(
+	ID INT AUTO_INCREMENT,
+    USERNAME VARCHAR(30),
+    PASSWD VARCHAR(30),
+    EMAIL VARCHAR(75),
+    PRIMARY KEY(ID)
+);
+
+INSERT INTO users(USERNAME, PASSWD, EMAIL) VALUES ('admin', 'admin', 'admin@admin.com');
+
+SELECT * FROM users;

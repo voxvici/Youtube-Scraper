@@ -11,7 +11,7 @@ cursor = connect.cursor()
 
 def access_db(data):
 	try:
-		cursor.execute("SELECT * FROM USERS WHERE USERNAME = binary %s AND PASSWD = BINARY %s", data)
+		cursor.execute("SELECT * FROM users WHERE USERNAME = binary %s AND PASSWD = BINARY %s", data)
 		return (cursor.fetchone())
 	except:
 		False
