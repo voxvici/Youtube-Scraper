@@ -28,7 +28,7 @@ Program created in PyQt, Python 3.6 and MySQL
 
 [PyQt](https://pypi.org/project/PyQt5/) >= 5.13.2
 
-## Future
+## Future Updates
 
 1. Email extraction and automatic captcha solver
 
@@ -37,7 +37,3 @@ Program created in PyQt, Python 3.6 and MySQL
 If you don't want to setup MySQL there is an option to login without SQL.
 
 Create MySQL database called logindb and execute SQL code inside SQL folder.
-
-## Run
-
-![youtube scraper voxvici](https://i.ibb.co/HH3pH1F/ys.jpg)
