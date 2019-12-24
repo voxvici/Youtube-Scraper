@@ -30,7 +30,7 @@ Program created in PyQt, Python 3.6 and MySQL
 
 ## Future Updates
 
-1. Email extraction and automatic captcha solver
+Email extraction and automatic captcha solver
 
 ## Setup
 
